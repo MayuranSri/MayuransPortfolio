@@ -1,0 +1,45 @@
+/* 
+ Title:            Mayuran's Portfolio
+ Files:             about.css
+ Date:             /10/2021
+ Semester:         Web development Fall 2021
+ Author:           Mayuran Srichandrabose
+ StudentID:		   301130283
+ Lab Section:      Assignment 1
+*/
+
+#InsideBody {
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(128,128,128, 0.4);
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px #000000;
+  }
+  h2 {
+	padding: 10px;
+	border-radius: 5px;
+	color: #000000;
+	box-shadow: 5px 5px 2px #000000;
+	background: rgba(128,128,128, 0.5);
+  }
+  p {
+	padding: 10px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: 17px;
+	color: #000000;
+	font-weight: 550;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #000000;
+	background: rgba(128,128,128, 0.5);
+  }
+body {
+	background-position: center center;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	background-image: url('https://wallpaperaccess.com/full/3084028.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  }

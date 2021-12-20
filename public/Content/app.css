@@ -1,0 +1,27 @@
+/* 
+ Title:            Mayuran's Portfolio
+ File:             app.css
+ Date:             /10/2021
+ Semester:         Web development Fall 2021
+ Author:           Mayuran Srichandrabose
+ StudentID:		     301130283
+ Lab Section:      Assignment 1
+*/
+
+#NavBar {
+    background-color:rgba(0, 153, 255, 0.651);
+  }
+  a {
+    color:#000000;
+    border-color:#000000;
+  }
+  a:hover {
+    box-shadow: 10px 10px 10px #000080;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0);
+    color: #FFFFFF;
+  }
+  #copyright {
+    padding: 10px;
+    font-size: x-small;
+  }

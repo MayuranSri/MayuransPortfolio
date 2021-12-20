@@ -1,0 +1,82 @@
+/* 
+ Title:            Mayuran's Portfolio
+ File:             projects.css
+ Date:             /10/2021
+ Semester:         Web development Fall 2021
+ Author:           Mayuran Srichandrabose
+ StudentID:		   301130283
+ Lab Section:      Assignment 1
+*/
+
+#cover {
+    background-image: url('https://dottech76.in/wp-content/uploads/2021/06/dark-wallpapers.jpg');
+    height: 630px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1{
+  position: absolute;
+	transform: translateY(22%);
+	padding: 10;
+	text-align: center;
+	font-size: 10vw;
+	color: #fff;
+	text-transform: uppercase;
+	text-shadow: 0 5px 10px rgba(0,0,0,1);
+	mix-blend-mode: overlay;
+	box-shadow: 0 5px 10px rgba(0,0,0,1);
+	background: rgba(0,0,0,0.5);
+	top: 230px;
+	left: 15px;
+	right: 15px;
+  }
+  h2 {
+	padding: 10px;
+	border-radius: 5px;
+	color: #000000;
+	box-shadow: 5px 5px 2px #000000;
+	background: rgba(128,128,128, 0.5);
+  }
+  h3 {
+	padding-left: 10px;
+	border-radius: 5px;
+	color: #000000;
+	box-shadow: 5px 5px 2px #000000;
+	background: rgba(128,128,128, 0.5);
+  }
+  p {
+	padding: 10px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: 17px;
+	color: #000000;
+	font-weight: 550;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #000000;
+	background: rgba(128,128,128, 0.5);
+  }
+  #Title {
+    padding: 23px;
+    padding-bottom: 0px;
+    text-align: center;
+  }
+  #InsideBody {
+    padding: 10px;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(128,128,128, 0.4);
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px #000000;
+  }
+  body {
+	background-position: center center;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	background-image: url('https://cdn.bfldr.com/SH6M70M3/as/bhjmq6vmrvtshcg88vvq7r/alfonsmoralesylswjsy7stwunsplashjpg_by_Photo_by_Alfons_Mo.png?width=1024&height=1024&fit=cover&auto=webp');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  }
